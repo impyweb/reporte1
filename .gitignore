@@ -1,6 +1,12 @@
-*
-!index.html
-!css/
-!js/
-!README.md
-!.gitignore
+# Ignorar archivos temporales y de sistema
+*.pyc
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignorar entornos virtuales
+venv/
+
+# Ignorar ejecutar.py
+ejecutar.py
