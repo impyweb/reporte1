@@ -18,5 +18,3 @@ reporte1/
 ------script.js
 
 ---README.md
-
-"""
